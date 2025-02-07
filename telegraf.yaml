@@ -131,4 +131,4 @@ spec:
             name: telegraf-config
         - name: mibs
           hostPath:
-            path: /hometelegraf/snmp
+            path: /home/telegraf/snmp
